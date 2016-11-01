@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "718864254741",
+    "firebase_url": "https://login-f56ac.firebaseio.com",
+    "project_id": "login-f56ac",
+    "storage_bucket": "login-f56ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718864254741:android:26328f61e9194da5",
+        "android_client_info": {
+          "package_name": "com.bekup.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718864254741-5l420t3tduor7adj2sgnrjauii7fipd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bekup.facebooklogin",
+            "certificate_hash": "C7216F54028F4D3F568D0617BE8BF2A363977E11"
+          }
+        },
+        {
+          "client_id": "718864254741-km0v34lkcd9ko90se7u6ub2nmljtacja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718864254741-km0v34lkcd9ko90se7u6ub2nmljtacja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
